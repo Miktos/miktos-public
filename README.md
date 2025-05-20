@@ -23,6 +23,10 @@ The Miktós project is currently in the planning and early development phase. Th
 
 If you're interested in learning more about the Miktós project or potentially collaborating, please [contact information to be added].
 
+## License
+
+This documentation is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
+
 ---
 
 © 2025 Miktós Project
